@@ -13,4 +13,5 @@ public class Hello {
 
         System.out.println(MyMath.max3(8,9, 12));
     }
+
 }
