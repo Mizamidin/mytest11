@@ -33,5 +33,4 @@ public class MyMath {
     public static boolean isOdd(int a){
         return (a%2 != 0) ;
     }
-
 }
